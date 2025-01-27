@@ -1,4 +1,6 @@
-# Nannyna_branch1
+![Screenshot 2025-01-27 141602](https://github.com/user-attachments/assets/eb7637ab-2e19-4beb-ab20-12748a4124f6)
+
+
 Nannyna is an innovative Android and iOS application that revolutionizes the way childcare services are offered.  
 
 # Nannyna
